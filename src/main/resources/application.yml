@@ -3,3 +3,17 @@ spring:
     view:
       prefix: '/WEB-INF/view/'
       suffix: '.jsp'
+
+shop.properties.products:
+  - product:
+    id: 1
+    title: 'Phone'
+    cost: 110000.0
+  - product:
+    id: 2
+    title: 'Macbook'
+    cost: 550000.0
+  - product:
+    id: 3
+    title: 'Mouse'
+    cost: 5000.0
